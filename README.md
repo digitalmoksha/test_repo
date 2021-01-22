@@ -10,5 +10,5 @@
 
 [Incorrect Relative README link](../../../motion-markdown-it/README.md) `../../../motion-markdown-it/README.md`
 
-[Relative README link](../../../motion-markdown-it/blob/main/README.md) `../../../motion-markdown-it/blob/main/README.md`
+[Relative README link](../../../motion-markdown-it/blob/master/README.md) `../../../motion-markdown-it/blob/master/README.md`
 
