@@ -6,5 +6,7 @@
 
 [Pure Relative link](../../../motion-markdown-it) `../../../motion-markdown-it`
 
-[incorrect Relative link](../../motion-markdown-it) `../../motion-markdown-it`
+[Incorrect Relative link](../../motion-markdown-it) `../../motion-markdown-it`
+
+[Relative README link](../../../motion-markdown-it/README.md) `../../../motion-markdown-it/README.md`
 
