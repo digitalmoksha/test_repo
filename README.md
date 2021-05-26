@@ -1,3 +1,24 @@
+# API Documentation
+
+  * [Classes](#classes)
+    * [index](#classes-index)
+    * [update](#classes-update)
+    * [create](#classes-create)
+    * [delete](#classes-delete)
+
+
+## Classes
+### <a id=classes-index></a>index
+#### List classes
+##### Request
+* __Method:__ GET
+* __Path:__ /api/classes
+* __Request headers:__
+```
+authorization: Token token=test
+```
+
+
 # test_repo
 
 [Absolute link](https://github.com/digitalmoksha/motion-markdown-it) `https://github.com/digitalmoksha/motion-markdown-it`
