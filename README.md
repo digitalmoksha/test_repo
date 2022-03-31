@@ -35,3 +35,10 @@ authorization: Token token=test
 
 [Relative group link](../../..) `../../..`
 
+
+
+- [ ] NO-BREAK SPACE (U+00A0)
+- [ ] FIGURE SPACE (U+2007)
+- [ ] NARROW NO-BREAK SPACE (U+202F)
+- [ ] THIN SPACE (U+2009)
+- [ ] normal space
